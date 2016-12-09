@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.sfw.anno.smallupdate.app.main"
+    },
+    {
+      "uri": "next",
+      "pkg": "com.sfw.anno.smallupdate.app.next"
+    }
+  ]
+}
